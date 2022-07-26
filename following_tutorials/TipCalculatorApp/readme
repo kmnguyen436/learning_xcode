@@ -1,0 +1,18 @@
+All the code in this folder are NOT mine
+I am following a tutorial to better understand how to use xcode and its syntax while tracking my progress here
+
+Credits to John Kouris
+Link to video: https://www.youtube.com/watch?v=fnHDbTDPu3s&t=64s
+
+
+What I learned from this tutorial: 
+  * swiftUI view
+  * preview
+  * systemName and SF Symbols
+  * arrays
+  * ?? 0  // (if false, set it to 0) 
+  * functions, types, and return values
+  * casting types
+  * GeometryReader can be used to get width of screen
+  * Picker 
+  * Extract Subview to lessen repeated code
