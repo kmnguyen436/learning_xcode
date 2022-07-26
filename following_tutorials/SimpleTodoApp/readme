@@ -1,1 +1,15 @@
-.
+All the code in this folder are NOT mine
+I am following a tutorial to better understand how to use xcode and its syntax while tracking my progress here
+
+Credits to azamsharp
+Link to video: https://www.youtube.com/watch?v=CZ79PpB7HIo
+
+
+What I learned from this tutorial: 
+  * Core Data
+  * private functions
+  * Data model
+  * try/catch statements
+  * persistentContainer
+  * how to implement delete, save, favorite buttons
+  * how to color code priority
